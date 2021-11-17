@@ -3773,11 +3773,11 @@ cite {
     cursor: pointer;
     height: 150px;
     margin-top: 20px;
-    margin-left: -500px;
+    margin-left: -250px;
   }
 
   .sobre {
-    margin-left: 600px;
+    margin-left: 1100px;
     margin-top: -130px;
     background-color: #121214;
     padding: 32px 0;
@@ -3788,7 +3788,7 @@ cite {
     cursor: pointer;
     box-sizing: border-box;
     list-style: none;
-    font-size: 4rem;
+    font-size: 3rem;
     font-family: Inter, sans-serif;
   }
 
@@ -3833,7 +3833,7 @@ cite {
 
   button {
     margin-top: -115px;
-    margin-left: 950px;
+    margin-left: 1400px;
     cursor: pointer;
     background: #fbfbfb;
     color: #343a40;
