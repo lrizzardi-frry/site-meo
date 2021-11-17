@@ -4059,7 +4059,7 @@ cite {
     box-sizing: inherit;
     display: flex;
     justify-content: left;
-    margin-left: 1250px;
+    margin-left: 1237.5px;
     text-align: center;
     color: #fff;
     text-transform: uppercase;
@@ -4091,7 +4091,7 @@ cite {
     box-sizing: inherit;
     display: flex;
     justify-content: left;
-    margin-left: 1575px;
+    margin-left: 1565px;
     text-align: center;
     color: #fff;
     text-transform: uppercase;
@@ -4099,7 +4099,7 @@ cite {
     sans-serif;
     -webkit-font-smoothing: antialiased;
     cursor: pointer;
-    margin-top: -35px;
+    margin-top: -40px;
   }
 
   #link-topo {
