@@ -4036,7 +4036,7 @@ cite {
     box-sizing: border-box;
     font-family: Inter, sans-serif;
     color: #a8a8b3;
-    margin-left: 375px;
+    margin-left: 350px;
     margin-top: -75px;
     display: block;
   }
@@ -4049,7 +4049,7 @@ cite {
     font-family: Inter, sans-serif;
     color: #a8a8b3;
     display: block;
-    margin-left: 375px;
+    margin-left: 350px;
     display: block;
   }
 
@@ -4069,7 +4069,7 @@ cite {
   }
 
   #email {
-    margin-left: 775px;
+    margin-left: 750px;
     color: white;
     text-decoration: none;
     font-size: 32px;
@@ -4082,7 +4082,7 @@ cite {
     display: block;
     margin-block-start: 0.83em;
     margin-block-end: 0.83em;
-    margin-inline-start: 1525px;
+    margin-inline-start: 1500px;
     margin-inline-end: 0px;
     font-weight: bold;
     text-align: left;
@@ -4152,7 +4152,7 @@ cite {
     box-sizing: inherit;
     display: flex;
     justify-content: left;
-    margin-left: 1210px;
+    margin-left: 1180px;
     text-align: center;
     color: #fff;
     text-transform: uppercase;
@@ -4168,7 +4168,7 @@ cite {
     box-sizing: inherit;
     display: flex;
     justify-content: left;
-    margin-left: 1740px;
+    margin-left: 1705px;
     text-align: center;
     color: #fff;
     text-transform: uppercase;
@@ -4184,7 +4184,7 @@ cite {
     box-sizing: inherit;
     display: flex;
     justify-content: left;
-    margin-left: 1530px;
+    margin-left: 1500px;
     text-align: center;
     color: #fff;
     text-transform: uppercase;
@@ -4215,10 +4215,10 @@ cite {
     text-indent: 0px;
     text-shadow: none;
     text-align: center;
-    font: 400 13.3333px Arial;
+    font: 400 26.6666px Arial;
     box-sizing: border-box;
     border-radius: 0.5em;
-    padding: 10px;
+    padding: 20px;
     position: fixed;
     right: 10px;
     bottom: 10px;
