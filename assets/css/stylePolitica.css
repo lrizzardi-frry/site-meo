@@ -422,3 +422,339 @@ li {
   width: 100%;
   height: 2px;
 }
+
+@media screen and (min-width: 1441px) and (max-width: 1920px) {
+.container {
+  background-color: #121214;
+}
+
+#logo {
+  cursor: pointer;
+  height: 150px;
+  margin-top: 20px;
+  margin-left: -250px;
+}
+
+.sobre {
+  margin-left: 1100px;
+  margin-top: -130px;
+  background-color: #121214;
+  padding: 32px 0;
+  color: white;
+  transition: all 0.2s ease;
+  border-bottom: 2px solid transparent;
+  text-decoration: none;
+  cursor: pointer;
+  box-sizing: border-box;
+  list-style: none;
+  font-size: 3rem;
+  font-family: Inter, sans-serif;
+}
+
+.menu ul {
+  list-style: none;
+  position: relative;
+  margin-left: 50px;
+}
+
+.menu ul li {
+  width: 175px;
+  float: left;
+}
+
+.menu a {
+  padding: 15px;
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  background-color: #121214;
+  color: white;
+  font-size: 32px;
+}
+
+.menu ul ul {
+  position: absolute;
+  visibility: hidden;
+}
+
+.menu ul li:hover ul {
+  visibility: visible;
+}
+
+.menu a:hover {
+  background-color: #30e342;
+}
+
+.menu ul ul li {
+  float: none;
+  border-bottom: solid 1px white;
+}
+
+button {
+  margin-top: -115px;
+  margin-left: 1400px;
+  cursor: pointer;
+  background: #fbfbfb;
+  color: #343a40;
+  letter-spacing: 0.5px;
+  position: relative;
+  overflow: hidden;
+  outline: 0;
+  white-space: nowrap;
+  transition: all 0.3s;
+  margin-bottom: 0;
+  padding: 1rem 2rem;
+  font-size: 2rem;
+  line-height: 1.4;
+  border-radius: 6px;
+  font-weight: 500;
+  text-align: center;
+  display: block;
+  user-select: none;
+  border: 2px solid transparent;
+  box-sizing: border-box;
+  font-family: "Ubuntu",
+  -apple-system,
+  "Segoe UI",
+  "Roboto",
+  "Oxygen",
+  "Cantarell",
+  "Fira Sans",
+  "Droid Sans",
+  "Helvetica Neue",
+  sans-serif;
+}
+
+section {
+  margin-top: -25px;
+}
+
+h2 {
+  justify-content: center;
+  text-align: center;
+  margin-top: 10px;
+  font-size: 32px;
+}
+
+h3 {
+  margin-top: 10px;
+  font-size: 28px;
+}
+
+a {
+  color: #04d361;
+}
+
+p {
+  line-height: 32px;
+  font-size: 24px;
+}
+
+li {
+  margin-top: 10px;
+}
+
+#logo2 {
+  margin-left: 30px;
+  cursor: pointer;
+  height: 140px;
+  display: inline;
+  margin-top: 25px;
+}
+
+.ano {
+  font-size: 20px;
+  line-height: 23px;
+  font-weight: 400;
+  box-sizing: border-box;
+  font-family: Inter, sans-serif;
+  color: #a8a8b3;
+  margin-left: 350px;
+  margin-top: -90px;
+  display: block;
+}
+
+.direitos {
+  font-size: 20px;
+  line-height: 23px;
+  font-weight: 400;
+  box-sizing: border-box;
+  font-family: Inter, sans-serif;
+  color: #a8a8b3;
+  display: block;
+  margin-left: 350px;
+  display: block;
+  margin-top: 10px;
+}
+
+#fale {
+  font-size: 24px;
+  margin-top: -75px;
+  margin-bottom: 10px;
+  box-sizing: inherit;
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+  font-family: Inter, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+#email {
+  margin-left: 775px;
+  color: white;
+  text-decoration: none;
+  font-size: 28px;
+}
+
+.informacoes {
+  font-size: 2rem;
+  margin-bottom: 16px;
+  box-sizing: inherit;
+  display: block;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 1425px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+  text-align: left;
+  color: #fff;
+  text-transform: uppercase;
+  font-family: Inter, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  margin-top: -75px;
+}
+
+.menu2 ul {
+  list-style: none;
+  position: relative;
+  margin-left: -50px;
+}
+
+.menu2 ul li {
+  width: 175px;
+  float: left;
+  margin-left: -50px;
+  margin-top: -10px;
+}
+
+.menu2 a {
+  padding: 15px;
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  background-color: #121214;
+  color: white;
+  margin-left: 0px;
+  font-size: 32px;
+}
+
+.menu2 button a {
+  padding: 15px;
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  background-color: white;
+  color: #343a40;
+  margin-left: 0px;
+}
+
+.menu2 ul ul {
+  position: absolute;
+  visibility: hidden;
+}
+
+.menu2 ul li:hover ul {
+  visibility: visible;
+}
+
+.menu2 a:hover {
+  background-color: #30e342;
+}
+
+.menu2 ul ul li {
+  float: none;
+  border-bottom: solid 1px white;
+  margin-left: 1035px;
+}
+
+.politica {
+  font-size: 20px;
+  margin-bottom: 10px;
+  box-sizing: inherit;
+  display: flex;
+  justify-content: left;
+  margin-left: 1200px;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+  font-family: Inter, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  cursor: pointer;
+}
+
+.sobre2 {
+  font-size: 20px;
+  margin-top: -27.5px;
+  margin-bottom: 10px;
+  box-sizing: inherit;
+  display: flex;
+  justify-content: left;
+  margin-left: 1700px;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+  font-family: Inter,
+  sans-serif;
+  -webkit-font-smoothing: antialiased;
+  cursor: pointer;
+}
+
+#termos {
+  font-size: 20px;
+  margin-bottom: 10px;
+  box-sizing: inherit;
+  display: flex;
+  justify-content: left;
+  margin-left: 1500px;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+  font-family: Inter,
+  sans-serif;
+  -webkit-font-smoothing: antialiased;
+  cursor: pointer;
+  margin-top: -40px;
+}
+
+#link-topo {
+  text-decoration: none;
+  color: #e1e1e6;
+  background-color: #292929;
+  box-sizing: border-box;
+  stroke: currentcolor;
+  fill: currentcolor;
+  stroke-width: 0;
+  height: 24;
+  width: 24;
+  overflow: hidden;
+  cursor: pointer;
+  font-family: Roboto, sans-serif;
+  text-rendering: auto;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  text-indent: 0px;
+  text-shadow: none;
+  text-align: center;
+  font: 400 26.6666px Arial;
+  box-sizing: border-box;
+  border-radius: 0.5em;
+  padding: 20px;
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+}
+}

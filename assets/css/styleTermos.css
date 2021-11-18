@@ -411,7 +411,7 @@ li {
   height: 2px;
 }
 
-@media screen and (min-width: 1441px) and (max-width: 1920px) {
+@media screen and (min-width: 1441px) and (max-width: 1921px) {
   .container {
     background-color: #121214;
   }
@@ -532,10 +532,10 @@ li {
   }
 
   p {
-    line-height: 24px;
+    line-height: 32px;
     color: white;
     margin-left: 25px;
-    font-size: 20px;
+    font-size: 24px;
   }
 
   li {
