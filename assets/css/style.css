@@ -964,22 +964,19 @@ cite {
 }
 
 @media screen and (min-width: 321px) and (max-width: 360px) {
-  .container {
-    width: 100%;
-  }
   #logo {
-    margin-left: 10px;
+    margin-left: -40px;
     height: 70px;
     margin-top: 0x;
   }
   .sobre {
-    margin-left: 175px;
+    margin-left: 125px;
     font-size: 22px;
     margin-top: -90px;
   }
   button {
   margin-top: -65px;
-  margin-left: 235px;
+  margin-left: 175px;
   cursor: pointer;
   background: #fbfbfb;
   color: #343a40;
@@ -1100,7 +1097,7 @@ cite {
     margin-top: 10px;
   }
   #link-topo {
-    margin-right: 840px;
+    margin-right: 900px;
     margin-top: -100px;
   }
 }

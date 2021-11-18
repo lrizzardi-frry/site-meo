@@ -424,9 +424,6 @@ li {
 }
 
 @media screen and (min-width: 321px) and (max-width: 360px) {
-  .container {
-    width: 100%;
-  }
   #logo {
     margin-left: 0px;
     height: 70px;
