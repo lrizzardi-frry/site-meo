@@ -478,7 +478,7 @@ caption {
   height: 2px;
 }
 
-@media screen and (min-width: 1441px) and (max-width: 1920px) {
+@media screen and (min-width: 1601px) and (max-width: 1920px) {
   .container {
     background-color: #121214;
   }
