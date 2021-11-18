@@ -3777,7 +3777,7 @@ cite {
   }
 
   .sobre {
-    margin-left: 1100px;
+    margin-left: 1150px;
     margin-top: -130px;
     background-color: #121214;
     padding: 32px 0;
@@ -3788,21 +3788,21 @@ cite {
     cursor: pointer;
     box-sizing: border-box;
     list-style: none;
-    font-size: 3rem;
+    font-size: 2rem;
     font-family: Inter, sans-serif;
   }
 
   .menu ul {
     list-style: none;
     position: relative;
-    margin-left: 50px;
+    margin-left: 0px;
   }
-  
+
   .menu ul li {
     width: 175px;
     float: left;
   }
-  
+
   .menu a {
     padding: 15px;
     display: block;
@@ -3812,20 +3812,20 @@ cite {
     color: white;
     font-size: 32px;
   }
-  
+
   .menu ul ul {
     position: absolute;
     visibility: hidden;
   }
-  
+
   .menu ul li:hover ul {
     visibility: visible;
   }
-  
+
   .menu a:hover {
     background-color: #30e342;
   }
-  
+
   .menu ul ul li {
     float: none;
     border-bottom: solid 1px white;
@@ -3833,7 +3833,7 @@ cite {
 
   button {
     margin-top: -115px;
-    margin-left: 1400px;
+    margin-left: 1175px;
     cursor: pointer;
     background: #fbfbfb;
     color: #343a40;
@@ -4096,16 +4096,16 @@ cite {
   .menu2 ul {
     list-style: none;
     position: relative;
-    margin-left: -50px;
+    margin-left: 175px;
   }
-  
+
   .menu2 ul li {
     width: 175px;
     float: left;
     margin-left: -50px;
     margin-top: -10px;
   }
-  
+
   .menu2 a {
     padding: 15px;
     display: block;
@@ -4116,7 +4116,7 @@ cite {
     margin-left: 0px;
     font-size: 32px;
   }
-  
+
   .menu2 button a {
     padding: 15px;
     display: block;
@@ -4126,25 +4126,25 @@ cite {
     color: #343a40;
     margin-left: 0px;
   }
-  
+
   .menu2 ul ul {
     position: absolute;
     visibility: hidden;
   }
-  
+
   .menu2 ul li:hover ul {
     visibility: visible;
   }
-  
+
   .menu2 a:hover {
     background-color: #30e342;
   }
-  
+
   .menu2 ul ul li {
     float: none;
     border-bottom: solid 1px white;
     margin-left: 1035px;
-  }  
+  }
 
   .politica {
     font-size: 20px;
