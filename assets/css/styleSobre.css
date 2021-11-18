@@ -2111,7 +2111,7 @@ h5 {
     display: block;
     margin-block-start: 1.33em;
     margin-block-end: 1.33em;
-    margin-inline-start: 550px;
+    margin-inline-start: 825px;
     margin-inline-end: 0px;
     text-align: -webkit-match-parent;
     list-style: none;
@@ -2120,7 +2120,7 @@ h5 {
   }
 
   .hs2 {
-    font-size: 32px;
+    font-size: 40px;
     line-height: 30px;
     margin-bottom: 8px;
     color: #e1e1e6;
@@ -2129,7 +2129,7 @@ h5 {
     display: block;
     margin-block-start: 1.33em;
     margin-block-end: 1.33em;
-    margin-inline-start: 560px;
+    margin-inline-start: 835px;
     margin-inline-end: 0px;
     text-align: -webkit-match-parent;
     list-style: none;
@@ -2138,7 +2138,7 @@ h5 {
   }
 
   .hs3 {
-    font-size: 32px;
+    font-size: 40px;
     line-height: 30px;
     margin-bottom: 8px;
     color: #e1e1e6;
@@ -2147,7 +2147,7 @@ h5 {
     display: block;
     margin-block-start: 1.33em;
     margin-block-end: 1.33em;
-    margin-inline-start: 565px;
+    margin-inline-start: 840px;
     margin-inline-end: 0px;
     text-align: -webkit-match-parent;
     list-style: none;
@@ -2156,7 +2156,7 @@ h5 {
   }
 
   .hs4 {
-    font-size: 32px;
+    font-size: 40px;
     line-height: 30px;
     margin-bottom: 8px;
     color: #e1e1e6;
@@ -2165,7 +2165,7 @@ h5 {
     display: block;
     margin-block-start: 1.33em;
     margin-block-end: 1.33em;
-    margin-inline-start: 550px;
+    margin-inline-start: 825px;
     margin-inline-end: 0px;
     text-align: -webkit-match-parent;
     list-style: none;
@@ -2174,7 +2174,7 @@ h5 {
   }
 
   .hs5 {
-    font-size: 32px;
+    font-size: 40px;
     line-height: 30px;
     margin-bottom: 8px;
     color: #e1e1e6;
@@ -2183,7 +2183,7 @@ h5 {
     display: block;
     margin-block-start: 1.33em;
     margin-block-end: 1.33em;
-    margin-inline-start: 555px;
+    margin-inline-start: 830px;
     margin-inline-end: 0px;
     text-align: -webkit-match-parent;
     list-style: none;
@@ -2192,86 +2192,86 @@ h5 {
   }
 
   #img1 {
-    width: 150px;
-    height: 150px;
+    width: 300px;
+    height: 300px;
     border-radius: 25%;
     margin-left: auto;
     margin-right: auto;
     display: block;
     transform: translateY(-50%);
     border: 8px solid white;
-    margin-left: 575px;
-    margin-top: 100px;
+    margin-left: 800px;
+    margin-top: 175px;
   }
 
   #img2 {
-    width: 150px;
-    height: 150px;
+    width: 300px;
+    height: 300px;
     border-radius: 25%;
     margin-left: auto;
     margin-right: auto;
     display: block;
     transform: translateY(-50%);
     border: 8px solid white;
-    margin-left: 565px;
-    margin-top: 100px;
+    margin-left: 790px;
+    margin-top: 175px;
   }
 
   #img3 {
-    width: 150px;
-    height: 150px;
+    width: 300px;
+    height: 300px;
     border-radius: 25%;
     margin-left: auto;
     margin-right: auto;
     display: block;
     transform: translateY(-50%);
     border: 8px solid white;
-    margin-left: 560px;
-    margin-top: 100px;
+    margin-left: 785px;
+    margin-top: 175px;
   }
 
   #img4 {
-    width: 150px;
-    height: 150px;
+    width: 300px;
+    height: 300px;
     border-radius: 25%;
     margin-left: auto;
     margin-right: auto;
     display: block;
     transform: translateY(-50%);
     border: 8px solid white;
-    margin-left: 565px;
-    margin-top: 100px;
+    margin-left: 790px;
+    margin-top: 175px;
   }
 
   #img5 {
-    width: 150px;
-    height: 150px;
+    width: 300px;
+    height: 300px;
     border-radius: 25%;
     margin-left: auto;
     margin-right: auto;
     display: block;
     transform: translateY(-50%);
     border: 8px solid white;
-    margin-left: 565px;
-    margin-top: 100px;
+    margin-left: 790px;
+    margin-top: 175px;
   }
 
   .ps1 {
-    font-size: 20px;
-    line-height: 30px;
+    font-size: 28px;
+    line-height: 32px;
     font-weight: 400;
     box-sizing: border-box;
     text-align: -webkit-match-parent;
     list-style: none;
     font-family: Inter, sans-serif;
     color: #04d361;
-    margin-top: -75px;
+    margin-top: -150px;
     text-align: center;
   }
 
   .ps2 {
-    font-size: 20px;
-    line-height: 30px;
+    font-size: 28px;
+    line-height: 32px;
     font-weight: 400;
     box-sizing: border-box;
     text-align: -webkit-match-parent;
@@ -2279,55 +2279,55 @@ h5 {
     font-family: Inter, sans-serif;
     color: #04d361;
     margin-right: 35px;
-    margin-top: -75px;
+    margin-top: -150px;
     text-align: center;
   }
 
   .ps3 {
-    font-size: 20px;
+    font-size: 28px;
     margin-right: 50px;
-    line-height: 30px;
+    line-height: 32px;
     font-weight: 400;
     box-sizing: border-box;
     text-align: -webkit-match-parent;
     list-style: none;
     font-family: Inter, sans-serif;
     color: #04d361;
-    margin-top: -75px;
+    margin-top: -150px;
     text-align: center;
   }
 
   .ps4 {
-    font-size: 20px;
+    font-size: 28px;
     margin-right: 40px;
-    line-height: 30px;
+    line-height: 32px;
     font-weight: 400;
     box-sizing: border-box;
     text-align: -webkit-match-parent;
     list-style: none;
     font-family: Inter, sans-serif;
     color: #04d361;
-    margin-top: -75px;
+    margin-top: -150px;
     text-align: center;
   }
 
   .ps5 {
-    font-size: 20px;
+    font-size: 28px;
     margin-right: 40px;
-    line-height: 30px;
+    line-height: 32px;
     font-weight: 400;
     box-sizing: border-box;
     text-align: -webkit-match-parent;
     list-style: none;
     font-family: Inter, sans-serif;
     color: #04d361;
-    margin-top: -75px;
+    margin-top: -150px;
     text-align: center;
   }
 
   .pps1 {
-    font-size: 20px;
-    line-height: 30px;
+    font-size: 26px;
+    line-height: 32px;
     font-weight: 400;
     box-sizing: border-box;
     text-align: -webkit-match-parent;
@@ -2339,9 +2339,9 @@ h5 {
   }
 
   .pps2 {
-    font-size: 20px;
+    font-size: 26px;
     margin-right: 35px;
-    line-height: 30px;
+    line-height: 32px;
     font-weight: 400;
     box-sizing: border-box;
     text-align: -webkit-match-parent;
@@ -2353,9 +2353,9 @@ h5 {
   }
 
   .pps3 {
-    font-size: 20px;
+    font-size: 26px;
     margin-right: 50px;
-    line-height: 30px;
+    line-height: 32px;
     font-weight: 400;
     box-sizing: border-box;
     text-align: -webkit-match-parent;
@@ -2367,9 +2367,9 @@ h5 {
   }
 
   .pps4 {
-    font-size: 20px;
+    font-size: 26px;
     margin-right: 40px;
-    line-height: 30px;
+    line-height: 32px;
     font-weight: 400;
     box-sizing: border-box;
     text-align: -webkit-match-parent;
@@ -2381,9 +2381,9 @@ h5 {
   }
 
   .pps5 {
-    font-size: 20px;
+    font-size: 26px;
     margin-right: 20px;
-    line-height: 30px;
+    line-height: 32px;
     font-weight: 400;
     box-sizing: border-box;
     text-align: -webkit-match-parent;
