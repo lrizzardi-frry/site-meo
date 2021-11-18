@@ -642,8 +642,8 @@ caption {
   }
 
   p {
-    font-size: 18px;
-    line-height: 21px;
+    font-size: 27px;
+    line-height: 36px;
     margin-bottom: 40px;
     max-width: unset;
     color: #30e342;
@@ -662,7 +662,7 @@ caption {
 
   h1 {
     margin-bottom: 0;
-    font-size: 1.5rem;
+    font-size: 2.2rem;
     font-weight: 800;
     line-height: 1.2;
     letter-spacing: -0.019em;
@@ -682,40 +682,43 @@ caption {
 
   h2 {
     color: white;
-    margin-left: -800px;
+    margin-left: -1000px;
     text-align: center;
+    font-size: 24px;
   }
 
   .h2Cliente {
-    margin-left: 900px;
+    margin-left: 1000px;
     display: block;
     margin-top: -50px;
+    font-size: 24px;
   }
 
   .img1 {
     margin-left: 50px;
     display: block;
-    height: 300px;
+    height: 600px;
     margin-top: 30px;
   }
 
   .img2 {
-    margin-left: 800px;
+    margin-left: 1000px;
     display: block;
-    height: 300px;
-    margin-top: -300px;
+    height: 600px;
+    margin-top: -600px;
   }
 
   .exterior {
     color: white;
     margin-top: 50px;
     margin-left: 0px;
+    font-size: 32px;
   }
 
   #descricao1 {
     color: white;
     font-weight: 400;
-    line-height: 26px;
+    line-height: 40px;
     box-sizing: border-box;
     display: block;
     margin-block-start: 1em;
@@ -724,6 +727,7 @@ caption {
     font-family: Roboto,
     sans-serif;
     margin-left: 10px;
+    font-size: 30px;
   }
 
   #descricao2 {
@@ -738,20 +742,23 @@ caption {
     font-family: Roboto,
     sans-serif;
     margin-left: -5px;
+    font-size: 30px;
   }
 
   .interior {
     color: white;
     margin-left: 0px;
+    font-size: 32px;
   }
 
   .descricao1 {
     text-align: center;
+    font-size: 28px;
   }
 
   table {
     color: white;
-    margin-left: 100px;
+    margin-left: 225px;
   }
 
   caption {
@@ -761,7 +768,7 @@ caption {
 
   .table2 {
     color: white;
-    margin-left: 925px;
+    margin-left: 1200px;
     margin-top: -225px;
   }
 
