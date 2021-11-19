@@ -506,6 +506,7 @@ li {
       float: none;
       border-bottom: solid 1px white;
       margin-left: 150px;
+      display: none;
     }
 
   #logo2 {

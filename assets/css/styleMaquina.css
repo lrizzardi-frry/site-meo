@@ -1261,6 +1261,7 @@ h1 {
       float: none;
       border-bottom: solid 1px white;
       margin-left: 200px;
+      display: none;
     }
 
   p {

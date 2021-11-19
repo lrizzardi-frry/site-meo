@@ -1010,6 +1010,7 @@ cite {
     float: none;
     border-bottom: solid 1px white;
     margin-left: 150px;
+    display: none;
   }
 
   h1 {
