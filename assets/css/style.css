@@ -3352,7 +3352,7 @@ cite {
   }
 }
 
-@media screen and (min-width: 769px) and (max-width: 1024px) {
+@media screen and (min-width: 769px) and (max-width: 900px) {
   #logo {
     height: 110px;
     margin-left: -25px;
@@ -3543,7 +3543,7 @@ cite {
   }
 }
 
-@media screen and (min-width: 1919px) and (max-width: 2159px) {
+@media screen and (min-width: 1000px) and (max-width: 1000px) {
   #logo {
     margin-top: 150px;
     margin-left: -350px;
@@ -3573,7 +3573,7 @@ cite {
   }
 }
 
-@media screen and (min-width: 1441px) and (max-width: 1441px) {
+@media screen and (min-width: 1200px) and (max-width: 1200px) {
   #logo {
     height: 110px;
     margin-left: -100px;
