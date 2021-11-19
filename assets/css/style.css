@@ -961,6 +961,57 @@ cite {
   sans-serif;
   }
 
+  .menu2 ul {
+    list-style: none;
+    position: relative;
+  }
+
+  .menu2 ul li {
+    width: 150px;
+    float: left;
+    margin-left: 20px;
+    margin-top: -10px;
+  }
+
+  .menu2 a {
+    padding: 15px;
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    background-color: #121214;
+    color: white;
+    margin-left: 0px;
+  }
+
+  .menu2 button a {
+    padding: 15px;
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    background-color: white;
+    color: #343a40;
+    margin-left: 0px;
+  }
+
+  .menu2 ul ul {
+    position: absolute;
+    visibility: hidden;
+  }
+
+  .menu2 ul li:hover ul {
+    visibility: visible;
+  }
+
+  .menu2 a:hover {
+    background-color: #30e342;
+  }
+
+  .menu2 ul ul li {
+    float: none;
+    border-bottom: solid 1px white;
+    margin-left: 150px;
+  }
+
   h1 {
     font-size: 30px;
     margin-left: 10px;
