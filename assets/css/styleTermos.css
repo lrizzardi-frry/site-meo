@@ -423,39 +423,90 @@ li {
     margin-top: -90px;
   }
   button {
-  margin-top: -65px;
-  margin-left: 175px;
-  cursor: pointer;
-  background: #fbfbfb;
-  color: #343a40;
-  letter-spacing: 0.5px;
-  position: relative;
-  overflow: hidden;
-  outline: 0;
-  white-space: nowrap;
-  transition: all 0.3s;
-  margin-bottom: 0;
-  padding: 0.001rem 0.001rem;
-  font-size: 1rem;
-  line-height: 1.4;
-  border-radius: 6px;
-  font-weight: 500;
-  text-align: center;
-  display: block;
-  user-select: none;
-  border: 2px solid transparent;
-  box-sizing: border-box;
-  font-family: "Ubuntu",
-  -apple-system,
-  "Segoe UI",
-  "Roboto",
-  "Oxygen",
-  "Cantarell",
-  "Fira Sans",
-  "Droid Sans",
-  "Helvetica Neue",
-  sans-serif;
-  }
+    margin-top: -65px;
+    margin-left: 175px;
+    cursor: pointer;
+    background: #fbfbfb;
+    color: #343a40;
+    letter-spacing: 0.5px;
+    position: relative;
+    overflow: hidden;
+    outline: 0;
+    white-space: nowrap;
+    transition: all 0.3s;
+    margin-bottom: 0;
+    padding: 0.001rem 0.001rem;
+    font-size: 1rem;
+    line-height: 1.4;
+    border-radius: 6px;
+    font-weight: 500;
+    text-align: center;
+    display: block;
+    user-select: none;
+    border: 2px solid transparent;
+    box-sizing: border-box;
+    font-family: "Ubuntu",
+    -apple-system,
+    "Segoe UI",
+    "Roboto",
+    "Oxygen",
+    "Cantarell",
+    "Fira Sans",
+    "Droid Sans",
+    "Helvetica Neue",
+    sans-serif;
+    }
+
+    .menu2 ul {
+      list-style: none;
+      position: relative;
+    }
+
+    .menu2 ul li {
+      width: 150px;
+      float: left;
+      margin-left: 20px;
+      margin-top: -10px;
+    }
+
+    .menu2 a {
+      padding: 15px;
+      display: block;
+      text-decoration: none;
+      text-align: center;
+      background-color: #121214;
+      color: white;
+      margin-left: 0px;
+    }
+
+    .menu2 button a {
+      padding: 15px;
+      display: block;
+      text-decoration: none;
+      text-align: center;
+      background-color: white;
+      color: #343a40;
+      margin-left: 0px;
+    }
+
+    .menu2 ul ul {
+      position: absolute;
+      visibility: hidden;
+    }
+
+    .menu2 ul li:hover ul {
+      visibility: visible;
+    }
+
+    .menu2 a:hover {
+      background-color: #30e342;
+    }
+
+    .menu2 ul ul li {
+      float: none;
+      border-bottom: solid 1px white;
+      margin-left: 150px;
+    }
 
   #logo2 {
     margin-left: 10px;
